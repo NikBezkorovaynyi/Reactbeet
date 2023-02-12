@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1740c012-362f-445c-b531-7f1b01ed485b" name="Changes" comment="" />
+    <list default="true" id="1740c012-362f-445c-b531-7f1b01ed485b" name="Changes" comment="121">
+      <change afterPath="$PROJECT_DIR$/HomeWork/front/src/style/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork/front/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/front/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork/front/src/common/footer/Footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/front/src/common/footer/Footer.jsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,11 +47,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676207281752</updated>
-      <workItem from="1676207283181" duration="1501000" />
+      <workItem from="1676207283181" duration="2286000" />
     </task>
+    <task id="LOCAL-00001" summary="121">
+      <created>1676209201518</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676209201518</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="121" />
+    <option name="LAST_COMMIT_MESSAGE" value="121" />
   </component>
 </project>
